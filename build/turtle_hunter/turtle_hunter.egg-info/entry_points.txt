@@ -1,2 +1,0 @@
-[console_scripts]
-hunting = turtle_hunter.hunting:main

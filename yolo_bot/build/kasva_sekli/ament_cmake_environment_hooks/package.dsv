@@ -1,0 +1,4 @@
+source;share/kasva_sekli/local_setup.bash
+source;share/kasva_sekli/local_setup.dsv
+source;share/kasva_sekli/local_setup.sh
+source;share/kasva_sekli/local_setup.zsh

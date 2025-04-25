@@ -1,0 +1,9 @@
+/home/eren/ern/projects/ROS-Projects-for-beginers/build/bringup/CMakeFiles/uninstall.dir
+/home/eren/ern/projects/ROS-Projects-for-beginers/build/bringup/CMakeFiles/bringup_uninstall.dir
+/home/eren/ern/projects/ROS-Projects-for-beginers/build/bringup/CMakeFiles/test.dir
+/home/eren/ern/projects/ROS-Projects-for-beginers/build/bringup/CMakeFiles/edit_cache.dir
+/home/eren/ern/projects/ROS-Projects-for-beginers/build/bringup/CMakeFiles/rebuild_cache.dir
+/home/eren/ern/projects/ROS-Projects-for-beginers/build/bringup/CMakeFiles/list_install_components.dir
+/home/eren/ern/projects/ROS-Projects-for-beginers/build/bringup/CMakeFiles/install.dir
+/home/eren/ern/projects/ROS-Projects-for-beginers/build/bringup/CMakeFiles/install/local.dir
+/home/eren/ern/projects/ROS-Projects-for-beginers/build/bringup/CMakeFiles/install/strip.dir

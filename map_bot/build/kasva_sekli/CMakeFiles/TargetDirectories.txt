@@ -1,0 +1,9 @@
+/home/eren/ern/projects/ROS-Projects-for-beginers/map_bot/build/kasva_sekli/CMakeFiles/uninstall.dir
+/home/eren/ern/projects/ROS-Projects-for-beginers/map_bot/build/kasva_sekli/CMakeFiles/kasva_sekli_uninstall.dir
+/home/eren/ern/projects/ROS-Projects-for-beginers/map_bot/build/kasva_sekli/CMakeFiles/test.dir
+/home/eren/ern/projects/ROS-Projects-for-beginers/map_bot/build/kasva_sekli/CMakeFiles/edit_cache.dir
+/home/eren/ern/projects/ROS-Projects-for-beginers/map_bot/build/kasva_sekli/CMakeFiles/rebuild_cache.dir
+/home/eren/ern/projects/ROS-Projects-for-beginers/map_bot/build/kasva_sekli/CMakeFiles/list_install_components.dir
+/home/eren/ern/projects/ROS-Projects-for-beginers/map_bot/build/kasva_sekli/CMakeFiles/install.dir
+/home/eren/ern/projects/ROS-Projects-for-beginers/map_bot/build/kasva_sekli/CMakeFiles/install/local.dir
+/home/eren/ern/projects/ROS-Projects-for-beginers/map_bot/build/kasva_sekli/CMakeFiles/install/strip.dir

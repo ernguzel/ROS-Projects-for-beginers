@@ -1,0 +1,62 @@
+-- The C compiler identification is GNU 13.3.0
+-- The CXX compiler identification is GNU 13.3.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 2.5.3 (/opt/ros/jazzy/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+-- Found ament_lint_auto: 0.17.1 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Configured 'flake8' exclude dirs and/or files: 
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done (0.6s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/eren/ern/projects/ROS-Projects-for-beginers/map_bot/build/kasva_sekli
+-- Install configuration: ""
+-- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/map_bot/install/kasva_sekli/share/kasva_sekli/config
+-- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/map_bot/install/kasva_sekli/share/kasva_sekli/config/gz_bridge.yaml
+-- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/map_bot/install/kasva_sekli/share/kasva_sekli/config/my_controllers.yaml
+-- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/map_bot/install/kasva_sekli/share/kasva_sekli/description
+-- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/map_bot/install/kasva_sekli/share/kasva_sekli/description/camera.xacro
+-- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/map_bot/install/kasva_sekli/share/kasva_sekli/description/lidar.xacro
+-- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/map_bot/install/kasva_sekli/share/kasva_sekli/description/robot.urdf.xacro
+-- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/map_bot/install/kasva_sekli/share/kasva_sekli/description/inertial_macros.xacro
+-- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/map_bot/install/kasva_sekli/share/kasva_sekli/description/robot_core.xacro
+-- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/map_bot/install/kasva_sekli/share/kasva_sekli/description/gazebo_control.xacro
+-- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/map_bot/install/kasva_sekli/share/kasva_sekli/description/ros2_control.xacro
+-- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/map_bot/install/kasva_sekli/share/kasva_sekli/launch
+-- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/map_bot/install/kasva_sekli/share/kasva_sekli/launch/launch_sim.launch.py
+-- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/map_bot/install/kasva_sekli/share/kasva_sekli/launch/map_sekli.launch.py
+-- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/map_bot/install/kasva_sekli/share/kasva_sekli/worlds
+-- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/map_bot/install/kasva_sekli/share/kasva_sekli/worlds/empty.world
+-- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/map_bot/install/kasva_sekli/share/kasva_sekli/worlds/lines.world
+-- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/map_bot/install/kasva_sekli/share/kasva_sekli/worlds/yolo_map.world
+-- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/map_bot/install/kasva_sekli/share/kasva_sekli/meshes
+-- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/map_bot/install/kasva_sekli/share/kasva_sekli/meshes/robo_kasva_sekil_002.STL
+-- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/map_bot/install/kasva_sekli/share/kasva_sekli/meshes/robo_kasva_sekil_004.STL
+-- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/map_bot/install/kasva_sekli/share/kasva_sekli/meshes/robo_kasva_sekil_003.STL
+-- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/map_bot/install/kasva_sekli/share/kasva_sekli/meshes/robo_kasva_sekil_001.STL
+-- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/map_bot/install/kasva_sekli/share/ament_index/resource_index/package_run_dependencies/kasva_sekli
+-- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/map_bot/install/kasva_sekli/share/ament_index/resource_index/parent_prefix_path/kasva_sekli
+-- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/map_bot/install/kasva_sekli/share/kasva_sekli/environment/ament_prefix_path.sh
+-- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/map_bot/install/kasva_sekli/share/kasva_sekli/environment/ament_prefix_path.dsv
+-- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/map_bot/install/kasva_sekli/share/kasva_sekli/environment/path.sh
+-- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/map_bot/install/kasva_sekli/share/kasva_sekli/environment/path.dsv
+-- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/map_bot/install/kasva_sekli/share/kasva_sekli/local_setup.bash
+-- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/map_bot/install/kasva_sekli/share/kasva_sekli/local_setup.sh
+-- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/map_bot/install/kasva_sekli/share/kasva_sekli/local_setup.zsh
+-- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/map_bot/install/kasva_sekli/share/kasva_sekli/local_setup.dsv
+-- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/map_bot/install/kasva_sekli/share/kasva_sekli/package.dsv
+-- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/map_bot/install/kasva_sekli/share/ament_index/resource_index/packages/kasva_sekli
+-- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/map_bot/install/kasva_sekli/share/kasva_sekli/cmake/kasva_sekliConfig.cmake
+-- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/map_bot/install/kasva_sekli/share/kasva_sekli/cmake/kasva_sekliConfig-version.cmake
+-- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/map_bot/install/kasva_sekli/share/kasva_sekli/package.xml

@@ -10,6 +10,7 @@
 /home/eren/ern/projects/ROS-Projects-for-beginers/yolo_bot/install/kasva_sekli/share/kasva_sekli/launch/launch_sim.launch.py
 /home/eren/ern/projects/ROS-Projects-for-beginers/yolo_bot/install/kasva_sekli/share/kasva_sekli/worlds/empty.world
 /home/eren/ern/projects/ROS-Projects-for-beginers/yolo_bot/install/kasva_sekli/share/kasva_sekli/worlds/lines.world
+/home/eren/ern/projects/ROS-Projects-for-beginers/yolo_bot/install/kasva_sekli/share/kasva_sekli/worlds/yolo_map.world
 /home/eren/ern/projects/ROS-Projects-for-beginers/yolo_bot/install/kasva_sekli/share/kasva_sekli/meshes/robo_kasva_sekil_002.STL
 /home/eren/ern/projects/ROS-Projects-for-beginers/yolo_bot/install/kasva_sekli/share/kasva_sekli/meshes/robo_kasva_sekil_004.STL
 /home/eren/ern/projects/ROS-Projects-for-beginers/yolo_bot/install/kasva_sekli/share/kasva_sekli/meshes/robo_kasva_sekil_003.STL

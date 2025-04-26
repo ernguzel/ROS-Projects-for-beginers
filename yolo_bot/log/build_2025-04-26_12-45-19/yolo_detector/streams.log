@@ -1,0 +1,21 @@
+[0.445s] Invoking command in '/home/eren/ern/projects/ROS-Projects-for-beginers/yolo_bot/src/yolo_detector': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/eren/ern/projects/ROS-Projects-for-beginers/yolo_bot/build/yolo_detector/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/eren/ern/projects/ROS-Projects-for-beginers/yolo_bot/install/yolo_detector/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/yolo_detector build --build-base /home/eren/ern/projects/ROS-Projects-for-beginers/yolo_bot/build/yolo_detector/build install --record /home/eren/ern/projects/ROS-Projects-for-beginers/yolo_bot/build/yolo_detector/install.log --single-version-externally-managed install_data
+[0.596s] running egg_info
+[0.607s] writing ../../build/yolo_detector/yolo_detector.egg-info/PKG-INFO
+[0.607s] writing dependency_links to ../../build/yolo_detector/yolo_detector.egg-info/dependency_links.txt
+[0.607s] writing entry points to ../../build/yolo_detector/yolo_detector.egg-info/entry_points.txt
+[0.607s] writing requirements to ../../build/yolo_detector/yolo_detector.egg-info/requires.txt
+[0.607s] writing top-level names to ../../build/yolo_detector/yolo_detector.egg-info/top_level.txt
+[0.627s] reading manifest file '../../build/yolo_detector/yolo_detector.egg-info/SOURCES.txt'
+[0.628s] writing manifest file '../../build/yolo_detector/yolo_detector.egg-info/SOURCES.txt'
+[0.628s] running build
+[0.628s] running build_py
+[0.628s] running install
+[0.632s] running install_lib
+[0.642s] running install_data
+[0.642s] running install_egg_info
+[0.654s] removing '/home/eren/ern/projects/ROS-Projects-for-beginers/yolo_bot/install/yolo_detector/lib/python3.12/site-packages/yolo_detector-0.0.0-py3.12.egg-info' (and everything under it)
+[0.654s] Copying ../../build/yolo_detector/yolo_detector.egg-info to /home/eren/ern/projects/ROS-Projects-for-beginers/yolo_bot/install/yolo_detector/lib/python3.12/site-packages/yolo_detector-0.0.0-py3.12.egg-info
+[0.654s] running install_scripts
+[0.723s] Installing yolo_detector script to /home/eren/ern/projects/ROS-Projects-for-beginers/yolo_bot/install/yolo_detector/lib/yolo_detector
+[0.724s] writing list of installed files to '/home/eren/ern/projects/ROS-Projects-for-beginers/yolo_bot/build/yolo_detector/install.log'
+[0.738s] Invoked command in '/home/eren/ern/projects/ROS-Projects-for-beginers/yolo_bot/src/yolo_detector' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/eren/ern/projects/ROS-Projects-for-beginers/yolo_bot/build/yolo_detector/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/eren/ern/projects/ROS-Projects-for-beginers/yolo_bot/install/yolo_detector/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/yolo_detector build --build-base /home/eren/ern/projects/ROS-Projects-for-beginers/yolo_bot/build/yolo_detector/build install --record /home/eren/ern/projects/ROS-Projects-for-beginers/yolo_bot/build/yolo_detector/install.log --single-version-externally-managed install_data

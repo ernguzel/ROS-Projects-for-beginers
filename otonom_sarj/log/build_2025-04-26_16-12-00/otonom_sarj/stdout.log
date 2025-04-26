@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/otonom_sarj/otonom_sarj.egg-info
+writing ../../build/otonom_sarj/otonom_sarj.egg-info/PKG-INFO
+writing dependency_links to ../../build/otonom_sarj/otonom_sarj.egg-info/dependency_links.txt
+writing entry points to ../../build/otonom_sarj/otonom_sarj.egg-info/entry_points.txt
+writing requirements to ../../build/otonom_sarj/otonom_sarj.egg-info/requires.txt
+writing top-level names to ../../build/otonom_sarj/otonom_sarj.egg-info/top_level.txt
+writing manifest file '../../build/otonom_sarj/otonom_sarj.egg-info/SOURCES.txt'
+reading manifest file '../../build/otonom_sarj/otonom_sarj.egg-info/SOURCES.txt'
+writing manifest file '../../build/otonom_sarj/otonom_sarj.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/eren/ern/projects/ROS-Projects-for-beginers/otonom_sarj/build/otonom_sarj/build
+creating /home/eren/ern/projects/ROS-Projects-for-beginers/otonom_sarj/build/otonom_sarj/build/lib
+creating /home/eren/ern/projects/ROS-Projects-for-beginers/otonom_sarj/build/otonom_sarj/build/lib/otonom_sarj
+copying otonom_sarj/__init__.py -> /home/eren/ern/projects/ROS-Projects-for-beginers/otonom_sarj/build/otonom_sarj/build/lib/otonom_sarj
+copying otonom_sarj/otonom_sarj.py -> /home/eren/ern/projects/ROS-Projects-for-beginers/otonom_sarj/build/otonom_sarj/build/lib/otonom_sarj
+running install
+running install_lib
+creating /home/eren/ern/projects/ROS-Projects-for-beginers/otonom_sarj/install/otonom_sarj/lib/python3.12/site-packages/otonom_sarj
+copying /home/eren/ern/projects/ROS-Projects-for-beginers/otonom_sarj/build/otonom_sarj/build/lib/otonom_sarj/__init__.py -> /home/eren/ern/projects/ROS-Projects-for-beginers/otonom_sarj/install/otonom_sarj/lib/python3.12/site-packages/otonom_sarj
+copying /home/eren/ern/projects/ROS-Projects-for-beginers/otonom_sarj/build/otonom_sarj/build/lib/otonom_sarj/otonom_sarj.py -> /home/eren/ern/projects/ROS-Projects-for-beginers/otonom_sarj/install/otonom_sarj/lib/python3.12/site-packages/otonom_sarj
+byte-compiling /home/eren/ern/projects/ROS-Projects-for-beginers/otonom_sarj/install/otonom_sarj/lib/python3.12/site-packages/otonom_sarj/__init__.py to __init__.cpython-312.pyc
+byte-compiling /home/eren/ern/projects/ROS-Projects-for-beginers/otonom_sarj/install/otonom_sarj/lib/python3.12/site-packages/otonom_sarj/otonom_sarj.py to otonom_sarj.cpython-312.pyc
+running install_data
+creating /home/eren/ern/projects/ROS-Projects-for-beginers/otonom_sarj/install/otonom_sarj/share/ament_index
+creating /home/eren/ern/projects/ROS-Projects-for-beginers/otonom_sarj/install/otonom_sarj/share/ament_index/resource_index
+creating /home/eren/ern/projects/ROS-Projects-for-beginers/otonom_sarj/install/otonom_sarj/share/ament_index/resource_index/packages
+copying resource/otonom_sarj -> /home/eren/ern/projects/ROS-Projects-for-beginers/otonom_sarj/install/otonom_sarj/share/ament_index/resource_index/packages
+copying package.xml -> /home/eren/ern/projects/ROS-Projects-for-beginers/otonom_sarj/install/otonom_sarj/share/otonom_sarj
+running install_egg_info
+Copying ../../build/otonom_sarj/otonom_sarj.egg-info to /home/eren/ern/projects/ROS-Projects-for-beginers/otonom_sarj/install/otonom_sarj/lib/python3.12/site-packages/otonom_sarj-0.0.0-py3.12.egg-info
+running install_scripts
+Installing otonom_sarj script to /home/eren/ern/projects/ROS-Projects-for-beginers/otonom_sarj/install/otonom_sarj/lib/otonom_sarj
+writing list of installed files to '/home/eren/ern/projects/ROS-Projects-for-beginers/otonom_sarj/build/otonom_sarj/install.log'

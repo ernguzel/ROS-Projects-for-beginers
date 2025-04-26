@@ -1,0 +1,6 @@
+source;share/otonom_sarj/hook/pythonpath.ps1
+source;share/otonom_sarj/hook/pythonpath.dsv
+source;share/otonom_sarj/hook/pythonpath.sh
+source;share/otonom_sarj/hook/ament_prefix_path.ps1
+source;share/otonom_sarj/hook/ament_prefix_path.dsv
+source;share/otonom_sarj/hook/ament_prefix_path.sh

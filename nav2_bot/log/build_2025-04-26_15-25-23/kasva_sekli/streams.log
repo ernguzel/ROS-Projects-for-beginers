@@ -1,0 +1,68 @@
+[0.007s] Invoking command in '/home/eren/ern/projects/ROS-Projects-for-beginers/nav2_bot/build/kasva_sekli': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/eren/ern/projects/ROS-Projects-for-beginers/nav2_bot/src/kasva_sekli -DCMAKE_INSTALL_PREFIX=/home/eren/ern/projects/ROS-Projects-for-beginers/nav2_bot/install/kasva_sekli
+[0.067s] -- The C compiler identification is GNU 13.3.0
+[0.111s] -- The CXX compiler identification is GNU 13.3.0
+[0.126s] -- Detecting C compiler ABI info
+[0.228s] -- Detecting C compiler ABI info - done
+[0.237s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.237s] -- Detecting C compile features
+[0.238s] -- Detecting C compile features - done
+[0.250s] -- Detecting CXX compiler ABI info
+[0.343s] -- Detecting CXX compiler ABI info - done
+[0.348s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.348s] -- Detecting CXX compile features
+[0.349s] -- Detecting CXX compile features - done
+[0.363s] -- Found ament_cmake: 2.5.3 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.465s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[0.558s] -- Found ament_lint_auto: 0.17.1 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[0.637s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.637s] -- Configured 'flake8' exclude dirs and/or files: 
+[0.638s] -- Added test 'lint_cmake' to check CMake code style
+[0.638s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.639s] -- Added test 'xmllint' to check XML markup files
+[0.640s] -- Configuring done (0.6s)
+[0.642s] -- Generating done (0.0s)
+[0.643s] -- Build files have been written to: /home/eren/ern/projects/ROS-Projects-for-beginers/nav2_bot/build/kasva_sekli
+[0.647s] Invoked command in '/home/eren/ern/projects/ROS-Projects-for-beginers/nav2_bot/build/kasva_sekli' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/eren/ern/projects/ROS-Projects-for-beginers/nav2_bot/src/kasva_sekli -DCMAKE_INSTALL_PREFIX=/home/eren/ern/projects/ROS-Projects-for-beginers/nav2_bot/install/kasva_sekli
+[0.647s] Invoking command in '/home/eren/ern/projects/ROS-Projects-for-beginers/nav2_bot/build/kasva_sekli': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/eren/ern/projects/ROS-Projects-for-beginers/nav2_bot/build/kasva_sekli -- -j20 -l20
+[0.677s] Invoked command in '/home/eren/ern/projects/ROS-Projects-for-beginers/nav2_bot/build/kasva_sekli' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/eren/ern/projects/ROS-Projects-for-beginers/nav2_bot/build/kasva_sekli -- -j20 -l20
+[0.687s] Invoking command in '/home/eren/ern/projects/ROS-Projects-for-beginers/nav2_bot/build/kasva_sekli': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/eren/ern/projects/ROS-Projects-for-beginers/nav2_bot/build/kasva_sekli
+[0.696s] -- Install configuration: ""
+[0.696s] -- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/nav2_bot/install/kasva_sekli/share/kasva_sekli/config
+[0.696s] -- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/nav2_bot/install/kasva_sekli/share/kasva_sekli/config/gz_bridge.yaml
+[0.696s] -- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/nav2_bot/install/kasva_sekli/share/kasva_sekli/config/my_controllers.yaml
+[0.696s] -- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/nav2_bot/install/kasva_sekli/share/kasva_sekli/description
+[0.696s] -- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/nav2_bot/install/kasva_sekli/share/kasva_sekli/description/camera.xacro
+[0.696s] -- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/nav2_bot/install/kasva_sekli/share/kasva_sekli/description/lidar.xacro
+[0.696s] -- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/nav2_bot/install/kasva_sekli/share/kasva_sekli/description/robot.urdf.xacro
+[0.696s] -- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/nav2_bot/install/kasva_sekli/share/kasva_sekli/description/inertial_macros.xacro
+[0.696s] -- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/nav2_bot/install/kasva_sekli/share/kasva_sekli/description/robot_core.xacro
+[0.696s] -- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/nav2_bot/install/kasva_sekli/share/kasva_sekli/description/gazebo_control.xacro
+[0.696s] -- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/nav2_bot/install/kasva_sekli/share/kasva_sekli/description/ros2_control.xacro
+[0.697s] -- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/nav2_bot/install/kasva_sekli/share/kasva_sekli/launch
+[0.697s] -- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/nav2_bot/install/kasva_sekli/share/kasva_sekli/launch/launch_sim.launch.py
+[0.697s] -- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/nav2_bot/install/kasva_sekli/share/kasva_sekli/launch/map_sekli.launch.py
+[0.697s] -- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/nav2_bot/install/kasva_sekli/share/kasva_sekli/worlds
+[0.697s] -- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/nav2_bot/install/kasva_sekli/share/kasva_sekli/worlds/empty.world
+[0.697s] -- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/nav2_bot/install/kasva_sekli/share/kasva_sekli/worlds/maping_map.world
+[0.697s] -- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/nav2_bot/install/kasva_sekli/share/kasva_sekli/worlds/lines.world
+[0.697s] -- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/nav2_bot/install/kasva_sekli/share/kasva_sekli/meshes
+[0.697s] -- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/nav2_bot/install/kasva_sekli/share/kasva_sekli/meshes/robo_kasva_sekil_002.STL
+[0.697s] -- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/nav2_bot/install/kasva_sekli/share/kasva_sekli/meshes/robo_kasva_sekil_004.STL
+[0.697s] -- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/nav2_bot/install/kasva_sekli/share/kasva_sekli/meshes/robo_kasva_sekil_003.STL
+[0.697s] -- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/nav2_bot/install/kasva_sekli/share/kasva_sekli/meshes/robo_kasva_sekil_001.STL
+[0.697s] -- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/nav2_bot/install/kasva_sekli/share/ament_index/resource_index/package_run_dependencies/kasva_sekli
+[0.697s] -- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/nav2_bot/install/kasva_sekli/share/ament_index/resource_index/parent_prefix_path/kasva_sekli
+[0.697s] -- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/nav2_bot/install/kasva_sekli/share/kasva_sekli/environment/ament_prefix_path.sh
+[0.697s] -- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/nav2_bot/install/kasva_sekli/share/kasva_sekli/environment/ament_prefix_path.dsv
+[0.698s] -- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/nav2_bot/install/kasva_sekli/share/kasva_sekli/environment/path.sh
+[0.698s] -- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/nav2_bot/install/kasva_sekli/share/kasva_sekli/environment/path.dsv
+[0.698s] -- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/nav2_bot/install/kasva_sekli/share/kasva_sekli/local_setup.bash
+[0.698s] -- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/nav2_bot/install/kasva_sekli/share/kasva_sekli/local_setup.sh
+[0.698s] -- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/nav2_bot/install/kasva_sekli/share/kasva_sekli/local_setup.zsh
+[0.698s] -- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/nav2_bot/install/kasva_sekli/share/kasva_sekli/local_setup.dsv
+[0.698s] -- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/nav2_bot/install/kasva_sekli/share/kasva_sekli/package.dsv
+[0.698s] -- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/nav2_bot/install/kasva_sekli/share/ament_index/resource_index/packages/kasva_sekli
+[0.698s] -- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/nav2_bot/install/kasva_sekli/share/kasva_sekli/cmake/kasva_sekliConfig.cmake
+[0.698s] -- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/nav2_bot/install/kasva_sekli/share/kasva_sekli/cmake/kasva_sekliConfig-version.cmake
+[0.698s] -- Installing: /home/eren/ern/projects/ROS-Projects-for-beginers/nav2_bot/install/kasva_sekli/share/kasva_sekli/package.xml
+[0.699s] Invoked command in '/home/eren/ern/projects/ROS-Projects-for-beginers/nav2_bot/build/kasva_sekli' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/eren/ern/projects/ROS-Projects-for-beginers/nav2_bot/build/kasva_sekli

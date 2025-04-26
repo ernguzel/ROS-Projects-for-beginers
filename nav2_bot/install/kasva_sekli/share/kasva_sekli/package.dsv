@@ -1,0 +1,8 @@
+source;share/kasva_sekli/hook/cmake_prefix_path.ps1
+source;share/kasva_sekli/hook/cmake_prefix_path.dsv
+source;share/kasva_sekli/hook/cmake_prefix_path.sh
+source;share/kasva_sekli/local_setup.bash
+source;share/kasva_sekli/local_setup.dsv
+source;share/kasva_sekli/local_setup.ps1
+source;share/kasva_sekli/local_setup.sh
+source;share/kasva_sekli/local_setup.zsh

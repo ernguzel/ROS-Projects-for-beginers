@@ -16,7 +16,7 @@ class VoiceControl(Node):
 
         # Mikrofon objesini başlat
         self.microphone = sr.Microphone(device_index=4)
-        self.timer = self.create_timer(0.5, self.listen_callback)
+        self.timer = self.create_timer(0.2, self.listen_callback)
 
         self.get_logger().info("✅ VoiceControl node başlatıldı (device_index=4)")
 
